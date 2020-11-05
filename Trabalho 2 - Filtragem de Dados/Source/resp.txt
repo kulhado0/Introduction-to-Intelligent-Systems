@@ -1,0 +1,12 @@
+1000,15-03-2015,sausage,whole milk,semi-finished bread,yogurt 
+1000,15-03-2015,whole milk,semi-finished bread,yogurt 
+1000,15-03-2015,semi-finished bread,yogurt 
+1000,15-03-2015,yogurt 
+1000,24-07-2015,canned beer,misc. beverages 
+1000,24-06-2014,whole milk,pastry,salty snack 
+1000,27-05-2015,pickled vegetables,soda 
+1000,24-07-2015,misc. beverages 
+1000,27-05-2015,soda 
+1000,24-06-2014,pastry,salty snack 
+1000,24-06-2014,salty snack 
+1000,25-11-2015,hygiene articles,sausage 
